@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 在某些文档结构中，空元素可能只是作为引用另一个地方的数据的占位符 -->
+<!-- 如果一个元素没有内容，它可以写成一个自闭合标签 -->
+<order>
+    <item refID="P_123" quantity="2" />
+    <item refID="P_456" quantity="1" />
+</order>
