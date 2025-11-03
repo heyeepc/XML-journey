@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<h>
+<book><title>XML 教程</title>  <author>张三</author>
+</book>
+</h>
+
+<!--一个格式良好的 XML 文档必须有且只有一个根元素-->
+
+<!--XML 允许元素互相嵌套，从而创建数据层次结构-->
