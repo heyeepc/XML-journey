@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 这是一个关于图书馆的XML文档示例 -->
+<library>
+  <book id="bk101" category="计算机">
+    <title>XML从入门到精通</title>
+    <author>张三</author>
+    <description><![CDATA[这本书讲述了XML的核心概念，包括但不限于<元素>、<属性>的用法。]]></description>
+    <price currency="CNY">59.00</price>
+  </book>
+  <book id="bk102" category="文学">
+    <title>平凡的世界</title>
+    <author>路遥</author>
+    <price currency="CNY">88.00</price>
+  </book>
+</library>
